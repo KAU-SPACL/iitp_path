@@ -1,6 +1,6 @@
 # iitp_path
 - - -
-## 3D A*
+## 3D Weighted A*
 Subscribe pointcloud data, position and publish coordinates of path
 Main ROS topic : /rtabmap/cloud_map, /rtabmap/odom => /optimal_path_x, /optimal_path_y, /optimal_path_z
 ![optimal_path](https://user-images.githubusercontent.com/41814103/113944873-35a0ed80-9840-11eb-8dfa-bef1f1c3e449.png)

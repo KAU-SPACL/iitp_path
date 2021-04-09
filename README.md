@@ -10,3 +10,5 @@ Subscribe (x, y, z) coordinates of the path points and publish setpoint of multi
 Main ROS topic : /optimal_path_x, y, z => mavros/setpoint_position/local
 ![ai_guidance_dpth_hz50_200917](https://user-images.githubusercontent.com/41814103/113669376-a2a46e00-96ee-11eb-834e-614c59f4050a.png)
 
+#### 공개 SW 요약서
+![요약서1](https://user-images.githubusercontent.com/41814103/114132426-4e43fd00-993f-11eb-81d6-b5014fa09892.JPG)
